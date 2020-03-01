@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Musical Structure AudioBooks App</string>
+    <string name="seven_habits_book">The seven habits of highly effective people</string>
+    <string name="Stephen_Covey">Stephen Covey</string>
+    <string name="awaken_the_giant_within_book">awaken the giant within</string>
+    <string name="Tony_Robbins">Tony Robbins</string>
+    <string name="get_out_book">get out of your own way</string>
+    <string name="mark_philip">Mark Goulston and Philip Goldberg</string>
+    <string name="now_playing">Now playing</string>
+    <string name="back_to_books_library">back to books library</string>
+    <string name="book_cover">book cover</string>
+    <string name="previous_button">previous button</string>
+    <string name="play_button">play button</string>
+    <string name="next_button">next button</string>
+    <string name="book_title">Book title</string>
+    <string name="author">Author</string>
+</resources>
